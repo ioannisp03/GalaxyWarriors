@@ -1,0 +1,4 @@
+repository "GalaxyWarriorsProject@jumpinioannis@cloud"
+  path "/"
+    br "/main"
+    co "/main"
